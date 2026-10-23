@@ -1,3 +1,4 @@
 # first-demo
-This is my first git repository
-Author Furqan Musir
+This is my first git repository.
+</br>
+Author - Furqan Musir
